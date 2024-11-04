@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h2>Kalkulator adit</h2>
+    <h2>Kalkulator Yandhi</h2>
     <form method="POST">
         <label for="bilangan1">Masukkan Bilangan Pertama:</label>
         <input type="number" step="0.01" id="bilangan1" name="bilangan1" required><br><br>
