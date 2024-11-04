@@ -28,7 +28,7 @@
         } elseif ($bil2 > $bil1) {
             echo "<p>the largest number is: $bil2</p>";
         } else {
-            echo "<p>both numbers are the same: $bil1</p>";
+            echo "<p>both number are the same: $bil1</p>";
         }
     }
     ?>
