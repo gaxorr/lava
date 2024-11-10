@@ -9,13 +9,13 @@
 
 <body>
     <form action="" method="POST">
-        <label for="bil1">first number:</label>
+        <label for="bil1">Bilangan Pertama:</label>
         <input type="number" name="bil1" id="bil1" required>
         <br>
-        <label for="bil2">second number:</label>
+        <label for="bil2">Bilangan Kedua:</label>
         <input type="number" name="bil2" id="bil2" required>
         <br>
-        <button type="submit" name="submit">determine the largest number </button>
+        <button type="submit" name="submit">Tentukan Bilangan Terbesar </button>
     </form>
 
     <?php
